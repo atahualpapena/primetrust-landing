@@ -1,0 +1,438 @@
+body {
+    margin: 0 auto;
+}
+
+.bg-light{
+   background-color: transparent !important;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: #ffffff;
+}
+
+.navbar-light .navbar-brand{
+    color: #ffffff !important;
+}
+
+#firstSection{
+    background-image: url(../assets/background.png) !important;
+    margin: 0 0 0 0 !important;
+    height: 450px !important;
+    width: 100% !important;
+}
+
+#firstSectionContent{
+    padding-top: 5%;
+}
+
+#firstSectionContent > div > div > h1, p{
+    color: #ffffff;
+}
+
+#firstSectionContent > div > div > h1{
+    font-size: 45px;
+}
+
+button.btn.btn-success{
+    background-color: #5fca72 !important;
+    border-color: #5fca72;
+    border-radius: 0px !important;
+}
+
+#secondSection{
+    background-color: #f8f9fa;
+    height: 450px;
+    width: 100%;
+}
+
+#secondSectionParagraph{
+    color: darkgray;
+}
+
+#sec2col1, #sec2col2, #sec2col3{
+    margin-top: 5%;
+}
+
+#thirdSection{
+    width: 100%;
+    height: 450px;
+}
+
+#sec3col1{
+    background-image: url(../assets/Vector_Smart_Object.png);
+    background-repeat: no-repeat;
+    margin-top: -6%;
+    height: 500px;
+    width: 500px;
+}
+
+#sec3col2 > h1{
+    color: #5fca72;
+}
+
+#sec3col2 > p{
+    color: black;
+    text-align: center;
+}
+
+li{
+    margin: 20px;
+    color: darkgrey;
+}
+
+#fourthSection{
+    background-image: url(../assets/background2.png);
+    width: 100%;
+    height: 300px;
+}
+
+#fourthSection > .container > .row > .col-lg-12 > h1{
+    color: #5fca72 !important;
+}
+
+#fourthSection > .container > .row > .col-lg-12 > h1 {
+    margin-top: 5%;
+    color: #ffffff;
+}
+
+div.col-lg-12{
+    text-align: center;
+}
+
+#fifthSection{
+    width: 100%;
+    height: 450px;
+}
+
+#sec5col2{
+    background-image: url(../assets/Vector_Smart_Object2.png);
+    background-repeat: no-repeat;
+}
+
+#sec5col1 > h1 {
+    color: #5fca72;
+    margin-top: 10%;
+}
+
+
+#sec5col1 > p {
+    margin-top: 5%;
+    color: darkgray;
+}
+
+#sec5col1 > button {
+    margin-top: 5%;
+}
+
+#sixthSection{
+    background-image: url(../assets/background2.png);
+    width: 100%;
+    height: 700px;
+}
+
+#sixthSection > .container > h1{
+    padding-top: 5%;
+    color: #ffffff;
+    text-align: center;
+    
+}
+
+
+#comment1 > h2{
+    padding-left: 1%;
+    padding-top: 2%;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    font-size: 20px;
+    height: 90px;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+#comment2 > h2{
+    padding-left: 1%;
+    padding-top: 2%;
+    margin-bottom: 3%;
+    font-size: 20px;
+    height: 90px;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+#comment3{
+    width: 100%;
+    background-color: #ffffff;
+    height: 200px;
+}
+
+#comment3 > h2{
+    padding-left: 1%;
+    padding-top: 2%;
+    font-size: 20px;
+}
+
+#comment3 > p{
+    padding-left: 1%;
+    font-size: 18px;
+    color: black;
+}
+
+#seventhSection{
+    margin-bottom: 5%;
+}
+
+#seventhSection > .container > .row > .col-md-3 > h1{
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+#review1{
+    margin-left: 12%;
+}
+
+#review1, #review2, #review3{
+    padding-top: 25px;
+    text-align: center;
+    margin-top: 5%;
+    width: 100%;
+    height: 250px;
+    background-color: #5fca72;
+}
+
+#review2{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#subReview{
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    background-color: lightgray;
+    width: 275px;
+    padding-top: 2%;
+    margin-left: 2%;
+    height: 30px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+#eightSection{
+    padding-top: 7%;
+    width: 100%;
+    height: 500px;
+    background-color: #f8f9fa;
+}
+
+#eightSection > .container > .row > .col-md-5 > h1{
+    color: darkgray;
+    font-size: 35px;
+    font-weight: 200;
+}
+
+#eightSection > .container > .row > .col-md-5 > h2{
+    color: #5fca72;
+    font-weight: 300;
+}
+
+#innerBox{
+    margin-top: 4%;
+    padding-top: 10%;
+    padding-left: 3%;
+    font-size: 18px;
+    height: 200px;
+    width: 600px;
+    background-color: #02205b;
+}
+
+#btnLink{
+    color: #5fca72;
+
+}
+
+#eightSection > .container > .row > .col-md-5 > p{
+    color: darkgray;
+}
+
+ul{
+    list-style: none;
+}
+
+#secondSection > .container > .row > .col-sm > h1{
+    color: #5fca72;
+}
+
+#secondSection > .container > .row > .col-sm > h1 > a{
+    color: #02205b;
+}
+#secondSection > .container > .row > .col-sm > h1 > a:hover{
+    text-decoration: none;
+}
+
+#secondSection > .container > .row > .col-sm > ul > li > i{
+    color: #5fca72;
+}
+
+button#btnLinkPlay.btn.btn-link{
+    color: #ffffff;
+    margin-left: 60%;
+}
+
+button#btnLink.btn.btn-link:hover{
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 600px) {
+
+    #secondSection{
+        margin-top: -56px;
+    }
+
+
+    #firstSectionContent{
+        text-align: center;
+        padding-top: 5% !important;
+    }
+
+    .navbar-light .navbar-brand {
+        color: rgba(0,0,0,.9) !important;
+    }
+
+    .bg-light{
+        background-color: #ffffff !important;
+        position: fixed;
+        z-index: 3;
+        width: 100%;
+    }
+
+    .navbar-light .navbar-nav .nav-link{
+        color: black;
+    }
+
+    div.row{
+        margin-top: 56px;
+    }
+
+    button.btn.btn-success{
+        margin-top: 5%;
+    }
+
+    li{
+        margin: 0px;
+    }
+
+    #sec3col1{
+        background-image: url(../assets/Vector_Smart_Object\ copy.png);
+        text-align: center;
+        margin-top: -6%;
+        margin-left: 10%;
+        height: 300px;
+        width: 300px;
+    }
+
+    #sec3col2 > h1{
+        text-align: center;
+        font-size: 20px;
+    }
+
+    #fourthSection > .container > .row > .col-lg-12 > p {
+        margin-top: 10%;
+        color: #ffffff;
+    }
+
+    #fourthSection > .container > .row > .col-lg-12 > h1 {
+        font-size: 20px;
+    }
+
+    #thirdSection > .container > .row > .col-sm-6 > button {
+        margin-left: 15%;
+    }
+
+    #fourthSection > .container > .row > .col-lg-12 > button {
+        width: 100%;
+        font-size: 13px;
+    }
+
+    #fifthSection > .container > .row > .col-lg-7 > h1{
+        color: #5fca72 !important;
+    }
+
+    #sec5col1 > h1{
+        font-size: 30px;
+        text-align: center;
+    }
+
+    #sec5col1 > button {
+        margin-left: 18%;
+    }
+
+    #sec5col2{
+        background-image: url(../assets/Vector_Smart_Object2.png);
+        background-repeat: no-repeat;
+    }
+
+    #comment1 > h2, #comment2 > h2, #comment3 > h2, #comment3 > p, #comment3 > button{
+        padding: 2% auto;
+        font-size: 15px;
+        text-align: center;
+        word-break: break-all;
+    }
+
+    #comment3{
+        height: 300px;
+    }
+
+    #sixthSection > .container > h1{
+        font-size: 20px;
+    }
+
+    #review1, #review2, #review3{
+        margin: 0 auto;
+    }
+
+    #innerBox{
+        width: 100%;
+        height: 200px;
+    }
+
+    iframe{
+        width: 100%;
+        height: 200px;
+    }
+
+    #eightSection > .container > .row > .col-md-5 > h1{
+        text-align: center;
+        font-size: 30px;
+ 
+    }
+    
+    #eightSection > .container > .row > .col-md-5 > h2{
+        text-align: center;
+        font-size: 30px;
+    }
+
+    div#review1.col-md-3, div#review2.col-md-3, div#review3.col-md-3{
+        margin-left: 3%;
+        margin-right: 3%;
+        margin-bottom: 5%;
+    }
+
+    #subReview{
+        color: #ffffff;
+        text-align: center;
+        font-size: 15px;
+        background-color: lightgray;
+        width: 275px;
+        padding-top: 2%;
+        margin-left: 11%;
+        height: 30px;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+    
+}
